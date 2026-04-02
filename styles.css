@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+body{
+	background-color:black;
+}
+h1{
+	color:white;
+	text-align:center;
+}
+.moviePic{
+	width:500px;
+	height:300px;
+	opacity:90%;
+	position:relative;
+	left: 50px;
+}
+.movieDetail{
+	width:500px;
+	color:white;
+	padding:20px;
+	text-align:center;
+	position:relative;
+	top:10px;
+	left:40px;
+}
